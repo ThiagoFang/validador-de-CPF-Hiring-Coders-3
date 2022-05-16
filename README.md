@@ -10,5 +10,5 @@ Projeto desenvolvido durante o BootCamp [Hiring Coders 3](https://www.hiringcode
 ## &#127775; Features
 &#10004; Validar CPF &#10004; JavaScript Vanilla &#10004;BootStrap
 
-### <a href="https://react-expense-tracker-lilac.vercel.app/">Clique aqui para visitar o site</a>
+### <a href="https://thiagofang.github.io/validador-de-CPF-Hiring-Coders-3/">Clique aqui para visitar o site</a>
 
